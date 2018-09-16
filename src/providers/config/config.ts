@@ -19,9 +19,9 @@ import * as WC from 'woocommerce-api';
 export class ConfigProvider {
 
 
-  public url: string = 'your-site-url';
-  public consumerKey: string = 'your-consumer-key';
-  public consumerSecret: string = 'your-consumer-secret';
+  public url: string = 'https://androidsrc.ir';
+  public consumerKey: string = 'ck_0e1c7510cbd2aa04dabcccc632842e22cf4fa6e7';
+  public consumerSecret: string = 'cs_0bc9137a9b096a8f7ff46fee87ce2dc4195559c6';
 
 
   Woocommerce = WC({
